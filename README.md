@@ -1,3 +1,4 @@
+![rdx](https://github.com/user-attachments/assets/13cb12b9-f702-41bc-bb14-64a41f027661)
 **Kurulum**
 
 - npm i @reduxjs/toolkit
